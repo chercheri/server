@@ -1,0 +1,939 @@
+{ 
+    "sites" : [
+        {
+            "id" : "010080",
+            "name" : "site1",
+            "codeRegate" : "010080",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "010280",
+            "name" : "site2",
+            "codeRegate" : "010280",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "010450",
+            "name" : "site3",
+            "codeRegate" : "010450",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "010470",
+            "name" : "site4",
+            "codeRegate" : "010470",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "010480",
+            "name" : "site5",
+            "codeRegate" : "010480",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "010500",
+            "name" : "site6",
+            "codeRegate" : "010500",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "010540",
+            "name" : "site7",
+            "codeRegate" : "010540",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "011320",
+            "name" : "site8",
+            "codeRegate" : "011320",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "011330",
+            "name" : "site9",
+            "codeRegate" : "011330",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "011370",
+            "name" : "site10",
+            "codeRegate" : "011370",
+            "etablissementId" : "010080",
+            "dexId" : "750538"
+        }
+    ]
+    
+, 
+    "etablissements" : [
+        {
+            "id" : "010080",
+            "codeRegate" : "010080",
+            "name" : "etab1",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "010230",
+            "codeRegate" : "010230",
+            "name" : "etab2",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "011860",
+            "codeRegate" : "011860",
+            "name" : "etab3",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "420210",
+            "codeRegate" : "420210",
+            "name" : "etab4",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "420780",
+            "codeRegate" : "420780",
+            "name" : "etab5",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "423360",
+            "codeRegate" : "423360",
+            "name" : "etab6",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "423490",
+            "codeRegate" : "423490",
+            "name" : "etab7",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "690480",
+            "codeRegate" : "690480",
+            "name" : "etab8",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "691260",
+            "codeRegate" : "691260",
+            "name" : "etab9",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "691900",
+            "codeRegate" : "691900",
+            "name" : "etab10",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "692210",
+            "codeRegate" : "692210",
+            "name" : "etab11",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "692250",
+            "codeRegate" : "692250",
+            "name" : "etab12",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "692800",
+            "codeRegate" : "692800",
+            "name" : "etab13",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "693110",
+            "codeRegate" : "693110",
+            "name" : "etab14",
+            "dexId" : "750538"
+        },
+        {
+            "id" : "696470",
+            "codeRegate" : "696470",
+            "name" : "etab15",
+            "dexId" : "750538"
+        }
+    ]
+    
+, 
+    "dex" : [
+        {
+            "id" : "941710",
+            "codeRegate" : "941710",
+            "name" : "dex1"
+        },
+        {
+            "id" : "209970",
+            "codeRegate" : "209970",
+            "name" : "dex2"
+        },
+        {
+            "id" : "750559",
+            "codeRegate" : "750559",
+            "name" : "dex3"
+        },
+        {
+            "id" : "750549",
+            "codeRegate" : "750549",
+            "name" : "dex4"
+        },
+        {
+            "id" : "750558",
+            "codeRegate" : "750558",
+            "name" : "dex5"
+        },
+        {
+            "id" : "750537",
+            "codeRegate" : "750537",
+            "name" : "dex6"
+        },
+        {
+            "id" : "750568",
+            "codeRegate" : "750568",
+            "name" : "dex7"
+        },
+        {
+            "id" : "750557",
+            "codeRegate" : "750557",
+            "name" : "dex8"
+        },
+        {
+            "id" : "750529",
+            "codeRegate" : "750529",
+            "name" : "dex9"
+        }, 
+        {
+            "id" : "750528",
+            "codeRegate" : "750528",
+            "name" : "dex10"
+        },
+        {
+            "id" : "750548",
+            "codeRegate" : "750548",
+            "name" : "dex11"
+        },
+        {
+            "id" : "750567",
+            "codeRegate" : "750567",
+            "name" : "dex12"
+        },
+        {
+            "id" : "750569",
+            "codeRegate" : "750569",
+            "name" : "dex13"
+        },
+        {
+            "id" : "750539",
+            "codeRegate" : "750539",
+            "name" : "dex14"
+        }, {
+            "id" : "750547",
+            "codeRegate" : "750547",
+            "name" : "dex15"
+        }, 
+        {
+            "id" : "750538",
+            "codeRegate" : "750538",
+            "name" : "dex16"
+        }
+    ]
+,
+    "flux": [
+        {
+            "id" : 1,
+            "codeFlux" : "02400",
+            "libelle" : "PRESSE STP (Viapost)",
+            "priorite": "1",
+            "reseau" : "D"
+        },
+        {
+            "id" : 2,
+            "codeFlux" : "04800",
+            "libelle" : "IP EN NBRE d'OBJETS (SIROP)",
+            "priorite": "1",
+            "reseau" : "D"
+        },
+        {
+            "id" : 3,
+            "codeFlux" : "01110",
+            "libelle" : "COURRIER OO MENAGE MECA (Pacte)",
+            "priorite": "1",
+            "reseau" : "D"
+        },
+        {
+            "id" : 4,
+            "codeFlux" : "01210",
+            "libelle" : "COURRIER OO CEDEX MECA (Pacte)",
+            "priorite": "1",
+            "reseau" : "D"
+        },
+        {
+            "id" : 5,
+            "codeFlux" : "02500",
+            "libelle" : "PPI SUIVIS et NON SUIVIS (Viapost)",
+            "priorite": "1",
+            "reseau" : "D"
+        },
+        {
+            "id" : 6,
+            "codeFlux" : "03300",
+            "libelle" : "COURRIER 3S (hors PPI) (UTE-Tracing, partis en distribution)",
+            "priorite": "1",
+            "reseau" : "D"
+        },
+        {
+            "id" : 7,
+            "codeFlux" : "03610",
+            "libelle" : "COLIS Livraison DODT (UTE-Tracing, partis en distribution)",
+            "priorite": "1",
+            "reseau" : "D"
+        },
+        {
+            "id" : 8,
+            "codeFlux" : "03650",
+            "libelle" : "CHRONOPOST (UTE-Tracing, partis en distribution)",
+            "priorite": "1",
+            "reseau" : "D"
+        }
+    ]
+,
+    "previsions": [
+        {
+            "id": 1,
+            "siteId": "010080",
+            "fluxId": "04800",
+            "data": [
+                {
+                    "annee": 2020,
+                    "typeAnne": "referece",
+                    "mois": [
+                        {
+                            "id": 7,
+                            "traficR": "7000"
+                        },
+                        {
+                            "id": 2,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 4,
+                            "traficR": "4000"
+                        },
+                        {
+                            "id": 1,
+                            "traficR": "1000"
+                        },
+                        {
+                            "id": 5,
+                            "traficR": "5000"
+                        },
+                        {
+                            "id": 11,
+                            "traficR": "11000"
+                        },
+                        {
+                            "id": 6,
+                            "traficR": "6000"
+                        },
+                        {
+                            "id": 8,
+                            "traficR": "8000"
+                        },
+                        {
+                            "id": 3,
+                            "traficR": "3000"
+                        },
+                        {
+                            "id": 9,
+                            "traficR": "9000"
+                        },
+                        {
+                            "id": 12,
+                            "traficR": "12000"
+                        },
+                        {
+                            "id": 10,
+                            "traficR": "10000"
+                        }
+                    ]
+                },
+                {
+                    "annee": 2021,
+                    "typeAnne": "actuelle",
+                    "mois": [
+                        {
+                            "id": 2,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "10",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 3,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "10",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 4,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 5,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 6,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 7,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 8,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 9,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 10,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 1,
+                            "editable": false,
+                            "traficR": "1100",
+                            "traficP": null,
+                            "traficC": "",
+                            "traficV": "",
+                            "evolution": "10",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 11,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 12,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "0",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        }
+                    ]
+                },
+                {
+                    "annee": 2022,
+                    "typeAnne": "prochaine",
+                    "mois": [
+                        {
+                            "id": 1,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 2,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 3,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 4,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 5,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 6,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 7,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 8,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 9,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 10,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 11,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 12,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "1000",
+                            "traficC": "",
+                            "traficV": "1000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "siteId": "010280",
+            "fluxId": "04800",
+            "data": [
+                {
+                    "annee": 2020,
+                    "typeAnne": "referece",
+                    "mois": [
+                        {
+                            "id": 1,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 2,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 3,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 4,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 5,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 6,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 7,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 8,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 9,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 10,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 11,
+                            "traficR": "2000"
+                        },
+                        {
+                            "id": 12,
+                            "traficR": "2000"
+                        }
+                    ]
+                },
+                {
+                    "annee": 2021,
+                    "typeAnne": "actuelle",
+                    "mois": [
+                        {
+                            "id": 1,
+                            "editable": false,
+                            "traficR": "2200",
+                            "traficP": null,
+                            "traficC": null,
+                            "traficV": null,
+                            "evolution": "10",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 2,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 3,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 4,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 5,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 6,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 7,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 8,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 9,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 10,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 11,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 12,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        }
+                    ]
+                },
+                {
+                    "annee": 2022,
+                    "typeAnne": "prochaine",
+                    "mois": [
+                        {
+                            "id": 1,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 2,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 3,
+                            "editable": true,
+                            "traficP": "2000",
+                            "traficR": null,
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 4,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 5,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 6,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "",
+                            "evolution": "",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 7,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 8,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 9,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 10,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 11,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        },
+                        {
+                            "id": 12,
+                            "editable": true,
+                            "traficR": null,
+                            "traficP": "2000",
+                            "traficC": "",
+                            "traficV": "2000",
+                            "evolution": "0",
+                            "commentaire": "blabla"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
